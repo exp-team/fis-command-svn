@@ -1,0 +1,37 @@
+{
+  "name": "fis-command-svn",
+  "description": "A fis subversion client tool",
+  "version": "0.0.1",
+  "main": "svn.js",
+  "bin": {
+    "fis-svn": "bin/svn"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/exp-team/fis-command-svn.git"
+  },
+  "dependencies": {
+    "fis": "1.9.14"
+  },
+  "keywords": [
+    "fis",
+    "fis-command-svn"
+  ],
+  "bugs": {
+    "url": "https://github.com/exp-team/fis-command-svn/issues"
+  },
+  "author": {
+    "name": "sobird"
+  },
+  "licenses": [
+    {
+      "type": "GNU",
+      "url": "https://github.com/exp-team/fis-command-svn/blob/master/LICENSE"
+    }
+  ],
+  "readme": "# fis-command-svn\r\na fis subversion client tool\r\n",
+  "readmeFilename": "README.md"
+}
